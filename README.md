@@ -1,4 +1,4 @@
-# Audio-to-Text REST client 
+# Audio-to-Text AI REST client 
 
 ## Project Description
 
